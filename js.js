@@ -55,7 +55,7 @@ var vaca= {
   cargaOK:false
 };
 var cerdo={
-  url:"cerdo.png",
+  url:"lobo.png",
   cargaOK:false
 };
 
