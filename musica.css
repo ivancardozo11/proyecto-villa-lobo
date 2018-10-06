@@ -1,0 +1,29 @@
+#villaplatzi{
+   background: url(tile.png)
+}
+
+body{
+  background: #14924c;
+}
+
+body > div > div > div:nth-child(2){
+  display: grid;
+  justify-items:center;
+
+}
+body > div > div > div:nth-child(4){
+  display: grid;
+  justify-items:center;
+}
+img{
+  display: grid;
+  position: absolute;
+  width: 60%;
+  top: -20%;
+}
+#villa{
+  width: 400px;
+      margin-left: 20px;
+      margin-top: 214px;
+
+}
